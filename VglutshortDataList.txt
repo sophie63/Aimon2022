@@ -1,0 +1,14 @@
+/media/NAS/Sophie/WalkProject/Vglut/B66-B70/DataB66ss1reg202TS.mat
+/media/NAS/Sophie/WalkProject/Vglut/B66-B70/DataB68ss1reg244TS.mat
+/media/NAS/Sophie/WalkProject/Vglut/B66-B70/DataB70regdFF1000pointskfc262Smith20_4_105TS.mat
+/media/NAS/Sophie/WalkProject/Vglut/B73-75/DataB73ss1reg44TS.mat
+/media/NAS/Sophie/WalkProject/Vglut/B73-75/DataB74ss1reg214TS.mat
+/media/NAS/Sophie/WalkProject/Vglut/B73-75/DataB75regdFF1000pointskfc176TS.mat
+/media/NAS/Sophie/WalkProject/Vglut/B99-B100/DataB99ss1regcdFF4000pointskf250TS.mat
+/media/NAS/Sophie/WalkProject/Vglut/B99-B100/DataB100regdFF1000pointskfc282Smith20_4_141TS.mat
+/media/NAS/Sophie/WalkProject/Vglut/B167-B169/DataB167ss1reg246TS.mat
+/media/NAS/Sophie/WalkProject/Vglut/B167-B169/DataB168ss164TS.mat
+/media/NAS/Sophie/WalkProject/Vglut/B167-B169/DataB169ss1regkf314TS.mat
+/media/NAS/Sophie/WalkProject/Vglut/B175-B178/DataB175ss1reg242TS.mat
+/media/NAS/Sophie/WalkProject/Vglut/B175-B178/DataB176ss1reg254TS.mat
+/media/NAS/Sophie/WalkProject/Vglut/B175-B178/DataB177ss1reg262TS.mat

@@ -1,0 +1,12 @@
+/media/NAS/Sophie/WalkProject/Cha/773/773ss2onc500regcU15sMpsfkfint184TS.mat
+/media/NAS/Sophie/WalkProject/Cha/100160/100160ss2onc500reg198TS.mat
+/media/NAS/Sophie/WalkProject/Cha/B757-B758/DataB757ss1reg146TS.mat
+/media/NAS/Sophie/WalkProject/Cha/B757-B758/DataB758ss1reg134TS.mat
+/media/NAS/Sophie/WalkProject/Cha/B1072-B1076/DataB1072ss1reg244TS.mat
+/media/NAS/Sophie/WalkProject/Cha/B1072-B1076/DataB1073ss1reg260TS.mat
+/media/NAS/Sophie/WalkProject/Cha/B1072-B1076/DataB1074ss1reg196TS.mat
+/media/NAS/Sophie/WalkProject/Cha/B1072-B1076/DataB1075ss1reg236TS.mat
+/media/NAS/Sophie/WalkProject/Cha/B1072-B1076/DataB1076ss1reg178TS.mat
+/media/NAS/Sophie/WalkProject/Cha/B1078-B1080/DataB1080ss1reg258TS.mat
+/media/NAS/Sophie/WalkProject/Cha/B1089-B1091/DataB1089ss1reg174TS.mat
+/media/NAS/Sophie/WalkProject/Cha/B1089-B1091/DataB1090ss1reg196TS.mat
