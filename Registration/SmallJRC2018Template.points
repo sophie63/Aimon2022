@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE namedpointset [
+  <!ELEMENT namedpointset (pointworld*)>
+  <!ELEMENT pointworld EMPTY>
+  <!ATTLIST namedpointset version CDATA #REQUIRED>
+  <!ATTLIST pointworld set (true|false) #REQUIRED>
+  <!ATTLIST pointworld name CDATA #REQUIRED>
+  <!ATTLIST pointworld x CDATA #IMPLIED>
+  <!ATTLIST pointworld y CDATA #IMPLIED>
+  <!ATTLIST pointworld z CDATA #IMPLIED>
+]>
+
+<namedpointset version="1.0">
+  <pointworld set="true" name="SCLL" x="91.0" y="31.0" z="18.0"/>
+  <pointworld set="true" name="SCLR" x="150.0" y="30.0" z="18.0"/>
+  <pointworld set="true" name="LH-SLP-L" x="74.0" y="16.0" z="28.0"/>
+  <pointworld set="true" name="LH-SLP-R" x="168.0" y="17.0" z="28.0"/>
+  <pointworld set="true" name="PBL" x="101.0" y="42.0" z="30.0"/>
+  <pointworld set="true" name="PBR" x="140.0" y="42.0" z="30.0"/>
+  <pointworld set="true" name="Nod" x="120.0" y="48.0" z="17.0"/>
+  <pointworld set="true" name="LTL" x="97.0" y="32.0" z="17.0"/>
+  <pointworld set="true" name="LTR" x="143.0" y="32.0" z="17.0"/>
+  <pointworld set="true" name="LHL" x="56.0" y="30.0" z="26.0"/>
+  <pointworld set="true" name="LHR" x="185.0" y="29.0" z="26.0"/>
+  <pointworld set="true" name="LH-L" x="56.0" y="30.0" z="26.0"/>
+  <pointworld set="true" name="LH-R" x="185.0" y="29.0" z="26.0"/>
+  <pointworld set="true" name="aMBL" x="95.0" y="12.0" z="17.0"/>
+  <pointworld set="true" name="aMBR" x="146.0" y="12.0" z="17.0"/>
+  <pointworld set="true" name="EBcenter" x="121.0" y="37.0" z="16.0"/>
+  <pointworld set="true" name="PBML" x="107.0" y="30.0" z="29.0"/>
+  <pointworld set="true" name="PBMR" x="134.0" y="30.0" z="29.0"/>
+  <pointworld set="true" name="PBM" x="121.0" y="35.0" z="28.0"/>
+  <pointworld set="true" name="ALL" x="104.0" y="51.0" z="6.0"/>
+  <pointworld set="true" name="ALR" x="137.0" y="50.0" z="6.0"/>
+  <pointworld set="true" name="AVLPR" x="164.0" y="51.0" z="12.0"/>
+  <pointworld set="true" name="AVLPL" x="78.0" y="51.0" z="12.0"/>
+  <pointworld set="true" name="GNGR" x="130.0" y="77.0" z="9.0"/>
+  <pointworld set="true" name="GNGL" x="111.0" y="77.0" z="9.0"/>
+  <pointworld set="true" name="AMMCL" x="92.0" y="71.0" z="12.0"/>
+  <pointworld set="true" name="AMMCR" x="149.0" y="70.0" z="12.0"/>
+  <pointworld set="true" name="GAMMA1L" x="89.0" y="37.0" z="14.0"/>
+  <pointworld set="true" name="GAMMA1R" x="152.0" y="37.0" z="14.0"/>
+  <pointworld set="true" name="PI" x="120.0" y="16.0" z="17.0"/>
+  <pointworld set="true" name="CAR" x="152.0" y="28.0" z="30.0"/>
+  <pointworld set="true" name="CAL" x="89.0" y="28.0" z="30.0"/>
+  <pointworld set="true" name="PedL" x="88.0" y="37.0" z="24.0"/>
+  <pointworld set="true" name="PedR" x="154.0" y="37.0" z="24.0"/>
+  <pointworld set="true" name="TrTopL" x="100.0" y="45.0" z="23.0"/>
+  <pointworld set="true" name="TrTopR" x="140.0" y="46.0" z="23.0"/>
+  <pointworld set="true" name="WPVLPL" x="84.0" y="70.0" z="20.0"/>
+  <pointworld set="true" name="WPVLPR" x="158.0" y="69.0" z="20.0"/>
+  <pointworld set="true" name="FBTipTop" x="121.0" y="25.0" z="23.0"/>
+  <pointworld set="true" name="FBTopL" x="104.0" y="35.0" z="18.0"/>
+  <pointworld set="true" name="FBTopR" x="138.0" y="35.0" z="18.0"/>
+  <pointworld set="true" name="SOGClusterR" x="156.0" y="64.0" z="11.0"/>
+  <pointworld set="true" name="VentralCluster" x="121.0" y="62.0" z="9.0"/>
+  <pointworld set="true" name="SOGClusterL" x="86.0" y="63.0" z="11.0"/>
+  <pointworld set="true" name="Alpha&apos;3L" x="92.0" y="13.0" z="16.0"/>
+  <pointworld set="true" name="Alpha&apos;3R" x="148.0" y="13.0" z="16.0"/>
+  <pointworld set="true" name="Gamma5L" x="119.0" y="28.0" z="10.0"/>
+  <pointworld set="true" name="Gamma5R" x="122.0" y="28.0" z="10.0"/>
+  <pointworld set="true" name="Gamma2L" x="92.0" y="32.0" z="9.0"/>
+  <pointworld set="true" name="Gamma2R" x="149.0" y="32.0" z="9.0"/>
+  <pointworld set="true" name="Beta&apos;2L" x="116.0" y="41.0" z="11.0"/>
+  <pointworld set="true" name="Beta&apos;2R" x="125.0" y="41.0" z="11.0"/>
+  <pointworld set="true" name="Alpha3L" x="98.0" y="9.0" z="17.0"/>
+  <pointworld set="true" name="Alpha3R" x="142.0" y="8.0" z="17.0"/>
+  <pointworld set="true" name="LALL" x="94.0" y="60.0" z="13.0"/>
+  <pointworld set="true" name="LALR" x="146.0" y="59.0" z="13.0"/>
+  <pointworld set="true" name="EBventral" x="121.0" y="44.0" z="14.0"/>
+  <pointworld set="true" name="EBL" x="111.0" y="38.0" z="16.0"/>
+  <pointworld set="true" name="EBR" x="130.0" y="37.0" z="16.0"/>
+  <pointworld set="true" name="ConL" x="110.0" y="86.0" z="30.0"/>
+  <pointworld set="true" name="ConR" x="133.0" y="86.0" z="30.0"/>
+  <pointworld set="true" name="LOvL" x="72.0" y="76.0" z="29.0"/>
+  <pointworld set="true" name="LOvR" x="168.0" y="76.0" z="29.0"/>
+  <pointworld set="true" name="SLPbL" x="86.0" y="9.0" z="26.0"/>
+  <pointworld set="true" name="SLPbR" x="155.0" y="9.0" z="26.0"/>
+  <pointworld set="true" name="PId" x="120.0" y="17.0" z="25.0"/>
+  <pointworld set="true" name="SIPL" x="88.0" y="21.0" z="25.0"/>
+  <pointworld set="true" name="SIPR" x="156.0" y="21.0" z="25.0"/>
+  <pointworld set="true" name="AVLPRANT" x="163.0" y="55.0" z="8.0"/>
+  <pointworld set="true" name="AVLPLANT" x="78.0" y="56.0" z="8.0"/>
+  <pointworld set="true" name="AVLP-Tract-L" x="91.0" y="42.0" z="16.0"/>
+  <pointworld set="true" name="AVLP-Tract-R" x="148.0" y="43.0" z="16.0"/>
+  <pointworld set="true" name="AVLP-Lat-L" x="60.0" y="49.0" z="16.0"/>
+  <pointworld set="true" name="AVLP-Lat-R" x="180.0" y="49.0" z="16.0"/>
+  <pointworld set="true" name="ANTL-top-tip-L" x="100.0" y="24.0" z="26.0"/>
+  <pointworld set="true" name="ANTL-top-tip-R" x="143.0" y="24.0" z="26.0"/>
+  <pointworld set="true" name="Post-OL-tract-L" x="85.0" y="60.0" z="28.0"/>
+  <pointworld set="true" name="Post-OL-Tract-R" x="159.0" y="61.0" z="28.0"/>
+  <pointworld set="true" name="MiddleLowFB-L" x="111.0" y="44.0" z="18.0"/>
+  <pointworld set="true" name="MiddleLowFB-R" x="130.0" y="44.0" z="18.0"/>
+  <pointworld set="true" name="FBlowermiddle" x="120.0" y="41.0" z="22.0"/>
+  <pointworld set="true" name="FBlowerL" x="111.0" y="46.0" z="16.0"/>
+  <pointworld set="true" name="FBlowerR" x="130.0" y="46.0" z="16.0"/>
+  <pointworld set="true" name="PENPVlevel" x="120.0" y="55.0" z="24.0"/>
+  <pointworld set="true" name="PENPtopR" x="139.0" y="49.0" z="24.0"/>
+  <pointworld set="true" name="POCL" x="83.0" y="65.0" z="26.0"/>
+  <pointworld set="true" name="POCR" x="157.0" y="65.0" z="26.0"/>
+  <pointworld set="true" name="PostMedLow" x="120.0" y="52.0" z="28.0"/>
+  <pointworld set="true" name="PRWL" x="113.0" y="62.0" z="6.0"/>
+  <pointworld set="true" name="PRWR" x="127.0" y="63.0" z="6.0"/>
+  <pointworld set="true" name="VtipL" x="101.0" y="49.0" z="24.0"/>
+  <pointworld set="true" name="VtipR" x="140.0" y="48.0" z="24.0"/>
+  <pointworld set="true" name="POCmL" x="94.0" y="66.0" z="30.0"/>
+  <pointworld set="true" name="POCmR" x="145.0" y="67.0" z="30.0"/>
+  <pointworld set="true" name="PENPtopL" x="102.0" y="49.0" z="24.0"/>
+  <pointworld set="true" name="SMPCrescentR" x="139.0" y="14.0" z="24.0"/>
+  <pointworld set="true" name="SMPCrescentL" x="100.0" y="14.0" z="24.0"/>
+</namedpointset>
